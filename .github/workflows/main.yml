@@ -22,11 +22,15 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Install dependencies
-      run: dotnet restore TemplateAPI.Microservice.sln
+      run: dotnet restore GianAPI.template.csproj
+    - name: Install dependencies Pack
+      run: dotnet restore TemplateAPI.Microservice.sln      
     - name: Build
       run: dotnet build TemplateAPI.Microservice.sln --configuration Release --no-restore
+    - name: Build Pack
+      run: dotnet build GianAPI.template.csproj --configuration Release --no-restore      
     - name: Pack
-      run: dotnet pack TemplateAPI.Microservice.sln --no-restore --configuration Release --output nupkgs
+      run: dotnet pack GianAPI.template.csproj --no-restore --configuration Release --output nupkgs
 
     - name: Push
       uses: actions/setup-dotnet@v4
