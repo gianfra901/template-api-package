@@ -24,9 +24,9 @@ jobs:
     - name: Install dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build TemplateAPI.Microservice.sln --configuration Release --no-restore
     - name: Pack
-      run: dotnet pack --no-restore --configuration Release --output nupkgs
+      run: dotnet pack TemplateAPI.Microservice.sln --no-restore --configuration Release --output nupkgs
 
     - name: Push
       uses: actions/setup-dotnet@v4
