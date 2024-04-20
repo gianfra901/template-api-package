@@ -37,5 +37,5 @@ jobs:
         NUGET_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
     - name: Publish
-      run: dotnet nuget push ./nupkgs/*.nupkg --skip-duplicate --api-key ${{secrets.PAT_TOKEN}} --source "github"
+      run: dotnet nuget push ./nupkgs/*.nupkg --skip-duplicate --api-key ${{secrets.PAT_TOKEN}}
       
