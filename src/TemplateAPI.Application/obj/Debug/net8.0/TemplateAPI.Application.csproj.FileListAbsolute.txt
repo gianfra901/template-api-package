@@ -1,0 +1,12 @@
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\bin\Debug\net8.0\TemplateAPI.Application.deps.json
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\bin\Debug\net8.0\TemplateAPI.Application.dll
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\bin\Debug\net8.0\TemplateAPI.Application.pdb
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\TemplateAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\TemplateAPI.Application.AssemblyInfoInputs.cache
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\TemplateAPI.Application.AssemblyInfo.cs
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\TemplateAPI.Application.csproj.CoreCompileInputs.cache
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\TemplateAPI.Application.sourcelink.json
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\TemplateAPI.Application.dll
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\refint\TemplateAPI.Application.dll
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\TemplateAPI.Application.pdb
+D:\Repositorios\template-api-package\src\TemplateAPI.Application\obj\Debug\net8.0\ref\TemplateAPI.Application.dll
