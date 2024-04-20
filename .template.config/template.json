@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Gianfranco",
+  "classifications": [
+    "Web",
+    "API"
+  ],
+  "name": "Template API AOT",
+  "description": "Plantilla web api aot",
+  "identity": "Template.AOI.CSharp",
+  "groupIdentity": "Template.AOI",
+  "shortName": "api-gian",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "API",
+  "preferNameDirectory": true,
+  "symbols": {
+    "UseSQLite": {
+      "type": "parameter",
+      "datatype": "bool",
+      "defaultValue": "false",
+      "description": "Whether to use SQLite instead of LocalDB."
+    }
+  },
+  "sources": [
+    {
+      "source": "./",
+      "target": "./",
+      "exclude": [
+        ".template.config/**/*",
+        "templates/**/*",
+        "**/*.filelist",
+        "**/*.user",
+        "**/*.lock.json",
+        "*.nuspec"
+      ],
+      "rename": {
+        "README-template.md": "README.md"
+      },
+      "modifiers": [
+      ]
+    }
+  ]
+}
