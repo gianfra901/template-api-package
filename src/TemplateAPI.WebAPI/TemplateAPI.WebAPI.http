@@ -1,0 +1,11 @@
+@TemplateAPI.WebAPI_HostAddress = http://localhost:5002
+
+GET {{TemplateAPI.WebAPI_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{TemplateAPI.WebAPI_HostAddress}}/todos/1
+Accept: application/json
+
+###

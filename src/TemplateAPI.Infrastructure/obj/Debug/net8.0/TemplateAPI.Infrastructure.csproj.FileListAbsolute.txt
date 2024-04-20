@@ -1,0 +1,16 @@
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\bin\Debug\net8.0\TemplateAPI.Infrastructure.deps.json
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\bin\Debug\net8.0\TemplateAPI.Infrastructure.dll
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\bin\Debug\net8.0\TemplateAPI.Infrastructure.pdb
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\bin\Debug\net8.0\TemplateAPI.Application.dll
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\bin\Debug\net8.0\TemplateAPI.Application.pdb
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.AssemblyInfo.cs
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.sourcelink.json
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.csproj.CopyComplete
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.dll
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\refint\TemplateAPI.Infrastructure.dll
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\TemplateAPI.Infrastructure.pdb
+D:\Repositorios\template-api-package\src\TemplateAPI.Infrastructure\obj\Debug\net8.0\ref\TemplateAPI.Infrastructure.dll

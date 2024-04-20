@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "igGgXgirkrxxUiw8aE5HN/gH9162hLReverNVqgmLFSQyQ7EdlFdBmavJUPL14++NQs3dKSYdUVd1BXMzGmVYw==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\template-api-package\\GianAPI.template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ritua\\.nuget\\packages\\microsoft.templateengine.tasks\\7.0.118\\microsoft.templateengine.tasks.7.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

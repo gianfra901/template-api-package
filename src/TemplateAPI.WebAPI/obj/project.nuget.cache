@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcOowSgV9TNdQTp4XTgptQpZj5v7rVmUuISgTVOEzetdUsjaO4j9KsbH+dMIRmjgckzhjuX0sQOzj3LmrXznzA==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\template-api-package\\src\\TemplateAPI.WebAPI\\TemplateAPI.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ritua\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\ritua\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\ritua\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
